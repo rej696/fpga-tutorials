@@ -1,0 +1,10 @@
+###############################################################################
+#
+# TinyFPGA BX constraint file (.pcf)
+#
+###############################################################################
+
+set_io --warn-no-port data[0] B3 # LED
+set_io --warn-no-port data[1] A2 # PIN_1
+set_io --warn-no-port data[2] A1 # PIN_2
+set_io --warn-no-port data[3] B1 # PIN_3
