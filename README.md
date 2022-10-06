@@ -9,3 +9,5 @@ Repository for tutorials on Verliog and using the TinyFPGA BX.
 - https://apiodoc.readthedocs.io/en/stable/index.html
 - https://www.fpgatutorial.com/how-to-write-a-basic-verilog-module/
 - https://www.hdlworks.com/hdl_corner/verilog_ref/
+- https://zipcpu.com/
+- https://nandland.com/
